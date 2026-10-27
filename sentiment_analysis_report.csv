@@ -1,0 +1,16 @@
+review_id,review,sentiment,confidence,analyzed_at
+1,"Amazing product, excellent quality!",Positive,99.99,2026-10-27 11:35:33
+2,I love this product and would buy it again.,Positive,99.98,2026-10-27 11:35:33
+3,The quality is fantastic.,Positive,99.99,2026-10-27 11:35:33
+4,Very useful and easy to use.,Positive,99.98,2026-10-27 11:35:33
+5,Excellent value for money.,Positive,99.99,2026-10-27 11:35:33
+6,Terrible product. It stopped working.,Negative,99.98,2026-10-27 11:35:33
+7,Very disappointed with this purchase.,Negative,99.98,2026-10-27 11:35:33
+8,Poor quality and bad packaging.,Negative,99.98,2026-10-27 11:35:33
+9,I regret buying this product.,Negative,99.83,2026-10-27 11:35:33
+10,The product is not worth the price.,Negative,99.98,2026-10-27 11:35:33
+11,The package arrived yesterday.,Positive,98.96,2026-10-27 11:35:33
+12,The box contains two items.,Positive,89.64,2026-10-27 11:35:33
+13,The product is available in three colors.,Positive,99.42,2026-10-27 11:35:33
+14,Delivery took two days.,Negative,98.86,2026-10-27 11:35:33
+15,The item matches the description.,Positive,99.88,2026-10-27 11:35:33
